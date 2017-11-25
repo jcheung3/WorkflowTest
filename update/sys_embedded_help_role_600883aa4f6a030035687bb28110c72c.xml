@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_162936_workflowt.testtask_administrator" name="x_162936_workflowt.testtask_administrator">dfd703aa4f6a030035687bb28110c7aa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-23 17:49:28</sys_created_on>
+        <sys_id>600883aa4f6a030035687bb28110c72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dfd703aa4f6a030035687bb28110c7aa</sys_name>
+        <sys_package display_value="WorkflowTest" source="x_162936_workflowt">c8a509034f31030035687bb28110c783</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkflowTest">c8a509034f31030035687bb28110c783</sys_scope>
+        <sys_update_name>sys_embedded_help_role_600883aa4f6a030035687bb28110c72c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-23 17:49:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

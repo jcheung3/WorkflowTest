@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2017-11-22 21:13:31</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-22 21:13:31</sys_created_on>
+        <sys_id>eb1d22d24fa2030035687bb28110c7db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fc4sQAB-U1c:APA91bHura0Rb1ZkzL0GQudVMT-UGVcx9jgPgbat3HwiOLoJrEy0Z1ew7QTwQKlz5OEPUQXv7z4N7CtSRzGHnCBwgqscXW00XCH56ZxMhkArk5ifpRGUiFGOYjMkIMC2aNdFPLw3iVd4</sys_name>
+        <sys_package display_value="WorkflowTest" source="x_162936_workflowt">c8a509034f31030035687bb28110c783</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="WorkflowTest">c8a509034f31030035687bb28110c783</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_eb1d22d24fa2030035687bb28110c7db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-22 21:13:31</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fc4sQAB-U1c:APA91bHura0Rb1ZkzL0GQudVMT-UGVcx9jgPgbat3HwiOLoJrEy0Z1ew7QTwQKlz5OEPUQXv7z4N7CtSRzGHnCBwgqscXW00XCH56ZxMhkArk5ifpRGUiFGOYjMkIMC2aNdFPLw3iVd4</token>
+    </sys_push_notif_app_install>
+</record_update>

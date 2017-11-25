@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="WorkflowTest Properties">3203cfa64f6a030035687bb28110c704</category>
+        <order>200</order>
+        <property display_value="x_162936_workflowt.pdfPassword" name="x_162936_workflowt.pdfPassword">05340be64f6a030035687bb28110c7ff</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-23 17:41:38</sys_created_on>
+        <sys_id>2536cfe64f6a030035687bb28110c708</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_162936_workflowt.pdfPassword.WorkflowTest Properties</sys_name>
+        <sys_package display_value="WorkflowTest" source="x_162936_workflowt">c8a509034f31030035687bb28110c783</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkflowTest">c8a509034f31030035687bb28110c783</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_2536cfe64f6a030035687bb28110c708</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-23 17:52:39</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

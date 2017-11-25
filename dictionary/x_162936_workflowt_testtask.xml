@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="TestTask" max_length="40" name="x_162936_workflowt_testtask" sizeclass="3" type="collection">
+        <element label="Conditionally Rejected" max_length="40" name="conditionally_rejected" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="job_title" type="string"/>
+    </element>
+</database>

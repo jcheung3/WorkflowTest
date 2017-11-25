@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>TestTask</name>
+        <order>100</order>
+        <roles>x_162936_workflowt.testtask_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-18 14:51:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cff5cd834f31030035687bb28110c76b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestTask</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WorkflowTest" source="x_162936_workflowt">c8a509034f31030035687bb28110c783</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkflowTest">c8a509034f31030035687bb28110c783</sys_scope>
+        <sys_update_name>sys_app_application_cff5cd834f31030035687bb28110c76b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-18 14:51:16</sys_updated_on>
+        <title>TestTask</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

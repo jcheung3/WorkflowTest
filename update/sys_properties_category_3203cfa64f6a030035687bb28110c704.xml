@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>WorkflowTest Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-23 17:28:51</sys_created_on>
+        <sys_id>3203cfa64f6a030035687bb28110c704</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkflowTest Properties</sys_name>
+        <sys_package display_value="WorkflowTest" source="x_162936_workflowt">c8a509034f31030035687bb28110c783</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkflowTest">c8a509034f31030035687bb28110c783</sys_scope>
+        <sys_update_name>sys_properties_category_3203cfa64f6a030035687bb28110c704</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-23 17:28:51</sys_updated_on>
+        <title><![CDATA[<p>Welcome all you amazing cenovus people</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=3203cfa64f6a030035687bb28110c704"/>
+</record_update>
